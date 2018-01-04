@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8"/>
@@ -7,8 +7,8 @@
 <body>
     <table>
         <tr>
-            <th>用户名</th>
-            <th>密码</th>
+            <th>用户名:</th>
+            <th>密码:</th>
         </tr>
         <tr th:each="user:${user}">
             <td th:text="${user.username}"></td>
