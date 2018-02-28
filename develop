@@ -1,0 +1,12 @@
+Index: src/main/resources/templates/application1.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/resources/templates/application1.yml	(revision b8381d8c429082a4c043fa7e5d36860ff7717169)
++++ src/main/resources/templates/application1.yml	(revision )
+@@ -1,1 +1,1 @@
+-sadfjkalsdfjla
+\ No newline at end of file
++sadfjkalsdfjla1`2313213
+\ No newline at end of file
